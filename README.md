@@ -125,11 +125,15 @@ Project documentation
 ## How to Run the Project
 
 1 Download or clone this repository
+
 2 Open the Jupyter Notebook file and run the Python scripts
+
 3 Execute SQL queries in your database environment
+
 4 Open the Power BI dashboard file to explore the visual insights
 
 ## Author
 
 Babita Kumari
+
 Aspiring Data Analyst passionate about turning data into meaningful insights.
